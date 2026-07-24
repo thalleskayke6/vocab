@@ -8,7 +8,12 @@ Se não houver encaixe natural, não force: deixe passar e use em outra ocasião
 
 | Termo | Classe | Definição | Contexto típico |
 |---|---|---|---|
+| Abjurar | verbo | Renunciar solene e formalmente a algo; rejeitar ou abandonar princípios. | Linguagem jurídica, religiosa, histórica e literária; contextos de renúncia formal ou solemne. |
 | efêmero | adjetivo | Que dura pouco tempo; passageiro, transitório, fugaz. | Literatura, filosofia, poesia, descrições de fenômenos naturais ou sentimentos passageiros. |
 | teste | substantivo | Prova ou exame para verificar qualidade, conhecimento ou funcionamento. | Educação, medicina, tecnologia, qualidade de produtos e serviços. |
 
-_Última atualização: 2026-07-24 03:42 UTC_
+## Formas verbais
+
+- **Abjurar** — gerúndio: abjurando · particípio: abjurado · pret. perfeito (3ª p.): abjurou
+
+_Última atualização: 2026-07-24 03:45 UTC_
