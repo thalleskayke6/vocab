@@ -9,5 +9,6 @@ Se não houver encaixe natural, não force: deixe passar e use em outra ocasião
 | Termo | Classe | Definição | Contexto típico |
 |---|---|---|---|
 | efêmero | adjetivo | Que dura pouco tempo; passageiro, transitório, fugaz. | Literatura, filosofia, poesia, descrições de fenômenos naturais ou sentimentos passageiros. |
+| teste | substantivo | Prova ou exame para verificar qualidade, conhecimento ou funcionamento. | Educação, medicina, tecnologia, qualidade de produtos e serviços. |
 
-_Última atualização: 2026-07-23 23:56 UTC_
+_Última atualização: 2026-07-24 03:42 UTC_
