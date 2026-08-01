@@ -12,7 +12,7 @@ outra ocasião. Forçar a palavra destrói o objetivo, que é fixar o uso real.
 | abespinhar-se | verbo pronominal | "irritar-se", "ficar bravo", "se ofender" | Irritar-se por melindre, eriçar-se como quem foi picado por vespa. | Irritação pequena e um tanto injustificada: "Ele se abespinhou com um comentário de nada." |
 | abjeto | adjetivo | "nojento", "baixo", "muito ruim" | Desprezível no plano moral; vil, torpe, indigno. | Condenação moral séria: "É um argumento abjeto." Não usar para mero mau gosto. |
 | buliçoso | adjetivo | "agitado", "inquieto", "elétrico" | Que se move e se remexe sem parar; cheio de vida e movimento. | Descrever criança, rua, mercado, cabeça: "Uma mente buliçosa." Não tem carga negativa. |
-| deveras | advérbio | "muito", "realmente", "de verdade" | Verdadeiramente; de fato. | Ênfase de registro elevado, antes do adjetivo: "É deveras preocupante." Alta chance de soar afetado — usar raro. |
+| deveras | advérbio | "muito", "realmente", "de verdade" | Verdadeiramente; de fato. | Ênfase de registro elevado: "É deveras preocupante", "gostei deveras". Troca "muito" só quando "muito" é advérbio, nunca antes de substantivo. Alta chance de soar afetado — usar raro. |
 | ponderar | verbo | "pensar sobre", "avaliar", "pesar os prós e contras" | Examinar com cuidado, medindo o peso e a consequência de cada lado antes de decidir. | Debate, reunião, resposta a pergunta difícil: "Ponderando os dois cenários, eu ficaria com o segundo." |
 
 ## Formas verbais

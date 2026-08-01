@@ -54,17 +54,26 @@ registro e, diferente de "muito", não intensifica só: ele **confirma**.
 **Ganho de oratória:** um único golpe de ênfase, em registro alto, que rende
 justamente por ser raro.
 
-**Como usar:** sempre antes do adjetivo ou advérbio.
+**Como usar:** antes de adjetivo ou advérbio, e depois de verbo.
 - "É deveras preocupante."
 - "O resultado foi deveras superior ao esperado."
-- "Deveras interessante essa leitura."
+- "Gostei deveras dessa leitura."
 
-**Onde erra:** esta é a palavra de maior risco da lista. O sabor é literário
-e um pouco antiquado, então em conversa comum ela soa afetada — ou pior,
-soa irônica, e o ouvinte entende que você está zombando. Duas regras:
-no máximo uma vez por conversa, e nunca em fala tensa ou informal. Também
-não use com verbo ("gostei deveras" soa forçado) nem no lugar de "muito"
-antes de substantivo ("deveras problemas" está errado).
+**A regra que resolve:** *deveras* troca "muito" só onde "muito" é advérbio
+— modificando adjetivo, advérbio ou verbo. Não troca quando "muito"
+quantifica substantivo, porque ali ele é pronome e flexiona: "muitos
+problemas", "muita gente". Teste de um segundo: se couber "realmente" no
+lugar, *deveras* entra; se o "muito" responde a *quanto?* diante de um
+substantivo, não entra.
+- "muito preocupante" → "deveras preocupante" ✓
+- "gostei muito" → "gostei deveras" ✓
+- "muitos problemas" → "deveras problemas" ✗
+
+**Onde erra:** o risco desta palavra é de registro, não de gramática. O sabor
+é literário e um pouco antiquado, então em conversa comum ela pode soar
+afetada — ou pior, soar irônica, e o ouvinte entende que você está zombando.
+Duas regras de dosagem: no máximo uma vez por conversa, e nunca em fala tensa
+ou informal.
 
 ---
 
