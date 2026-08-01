@@ -1,19 +1,30 @@
 # Vocabulário ativo
 
-INSTRUÇÃO PERMANENTE: sempre que eu fizer qualquer pergunta, verifique se
-alguma palavra desta lista se encaixa naturalmente no contexto da resposta.
-Se for verbo, use APENAS a forma conjugada que couber na frase — nunca liste
-várias formas. Insira a palavra dentro do texto normalmente, sem anunciar.
-Se não houver encaixe natural, não force: deixe passar e use em outra ocasião.
+INSTRUÇÃO PERMANENTE: em toda resposta, verifique se alguma palavra desta
+lista se encaixa naturalmente no contexto. Se encaixar, use — sem anunciar,
+sem marcar em negrito, sem explicar. Verbo: use APENAS a forma conjugada que
+couber na frase, nunca liste variações. Máximo de 2 palavras da lista por
+resposta. Se não houver encaixe natural, não force: deixe passar e use em
+outra ocasião. Forçar a palavra destrói o objetivo, que é fixar o uso real.
 
-| Termo | Classe | Definição | Contexto típico |
-|---|---|---|---|
-| Abjurar | verbo | Renunciar solene e formalmente a algo; rejeitar ou abandonar princípios. | Linguagem jurídica, religiosa, histórica e literária; contextos de renúncia formal ou solemne. |
-| efêmero | adjetivo | Que dura pouco tempo; passageiro, transitório, fugaz. | Literatura, filosofia, poesia, descrições de fenômenos naturais ou sentimentos passageiros. |
-| teste | substantivo | Prova ou exame para verificar qualidade, conhecimento ou funcionamento. | Educação, medicina, tecnologia, qualidade de produtos e serviços. |
+| Termo | Classe | Substitui (corriqueiro) | Significado | Como cai na fala |
+|---|---|---|---|---|
+| ponderar | verbo | "pensar sobre", "avaliar", "pesar os prós e contras" | Examinar com cuidado, medindo o peso e a consequência de cada lado antes de decidir. | Debate, reunião, resposta a pergunta difícil: "Ponderando os dois cenários, eu ficaria com o segundo." |
+| efêmero | adjetivo | "passageiro", "que dura pouco", "rápido" | Que dura pouco tempo; transitório, fugaz. | Ao relativizar um sucesso, uma crise ou uma emoção: "É uma vantagem efêmera." |
+| abjurar | verbo | "renunciar", "abandonar", "voltar atrás" | Renunciar solene e formalmente a uma crença, princípio ou posição. | Registro formal e enfático. Usar com parcimônia — soa grandiloquente em conversa comum. |
 
 ## Formas verbais
 
-- **Abjurar** — gerúndio: abjurando · particípio: abjurado · pret. perfeito (3ª p.): abjurou
+- **ponderar** — gerúndio: ponderando · particípio: ponderado · pret. perfeito (3ª p.): ponderou · adjetivo derivado: ponderado · substantivo: ponderação
+- **abjurar** — gerúndio: abjurando · particípio: abjurado · pret. perfeito (3ª p.): abjurou
 
-_Última atualização: 2026-07-24 03:45 UTC_
+## Regras do ciclo
+
+- Uma palavra nova a cada 3 dias.
+- Critério de escolha: a palavra precisa **substituir** algo corriqueiro que
+  já é dito no dia a dia. Palavra bonita sem onde encaixar não entra.
+- A ficha com o porquê de cada palavra fica em [`fichas.md`](fichas.md).
+- A lista ativa tem teto de 12 palavras. Ao passar disso, a mais antiga já
+  incorporada sai da lista ativa e permanece registrada em `fichas.md`.
+
+_Última atualização: 2026-08-01_
